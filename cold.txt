@@ -3,3 +3,5 @@ Ice cube added
 Line added from Git hub
 
 This line  is going to be added with the master barach
+
+New line New line
